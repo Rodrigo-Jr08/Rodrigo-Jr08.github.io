@@ -1844,7 +1844,7 @@ body > footer .copyrights {
   margin: 2px;
   width: 22px;
   height: 22px;
-  font-family: FontAwesome;
+  font-family: inherit;
   font-size: 21px;
   line-height: 22px;
   text-align: center;
@@ -1853,11 +1853,11 @@ body > footer .copyrights {
 }
 
 .testimonials.owl-carousel .owl-nav .owl-prev:before {
-  content: "\f104";
+  content: "‹";
 }
 
 .testimonials.owl-carousel .owl-nav .owl-next:before {
-  content: "\f105";
+  content: "›";
 }
 /* /Testimonials Carousel */
 
@@ -1891,7 +1891,7 @@ body > footer .copyrights {
 
 .portfolio-page-carousel .owl-nav [class*='owl-']:before {
   display: block;
-  font-family: FontAwesome;
+  font-family: inherit;
   font-size: 30px;
   line-height: 30px;
 }
@@ -1917,11 +1917,11 @@ body > footer .copyrights {
 }
 
 .portfolio-page-carousel .owl-nav .owl-prev:before {
-  content: "\f104";
+  content: "‹";
 }
 
 .portfolio-page-carousel .owl-nav .owl-next:before {
-  content: "\f105";
+  content: "›";
 }
 
 .portfolio-page-carousel .owl-dots {
