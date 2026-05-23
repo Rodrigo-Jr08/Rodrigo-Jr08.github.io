@@ -14,7 +14,7 @@ Currículo traz breves informações sobre mim, formação acadêmica e experiê
 5. Métricas e Aprendizado
 ```
 
-#### Como foi Feito?
+### Como foi Feito?
 O projeto foi desenvolvido no VSCode, com utilização de ferramentas como o CSS, HTML, Java Script, ajuda de Git e GitHub para versionamento de código e arquivos pdf e png/jpeg para complementação visual.
 
 # Meta
